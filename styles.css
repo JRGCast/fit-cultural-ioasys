@@ -1,12 +1,12 @@
 body {
 background-color: rgba(19, 18, 18, 0.76);
-background-image: linear-gradient(to right, rgba(19, 18, 18, 0.7), rgba(19, 18, 18, 0.1)), url('./pexels-photo-814499.jpeg');
+background-image: linear-gradient(to right, rgba(19, 18, 18, 0.7), rgba(19, 18, 18, 0.4)), url('./pexels-photo-814499.jpeg');
 color: whitesmoke;
 text-align: center;
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1.2em;
   text-align: justify;
   text-justify: auto;
 }
